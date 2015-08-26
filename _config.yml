@@ -3,10 +3,10 @@ title: MeloDiy
 email: baccalla@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
   Diy blog about music stuff
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://baccalla.github.io/melodiy/" # the base hostname & protocol for your site
+baseurl: "/melodiy/" # the subpath of your site, e.g. /blog/
+url: "http://baccalla.github.io/" # the base hostname & protocol for your site
 twitter_username: baccalla
-github_username:  baccalla
+github_username: baccalla
 
 # Build settings
 markdown: kramdown
