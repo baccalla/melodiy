@@ -12,7 +12,7 @@ Texte en **Gras**
 Texte en Italique *Italique*  
 
 On essaie un lien vers une chaine youtube qui présente de manière fort sympatiques des pédales de guitares [That Pedal Show][That Pedal Show]
-Tentons une image ![Dusemberg]: (http://www.laguitare.com/images/duesenberg_2.jpg)
+Tentons une image ![Dusemberg]:(http://www.laguitare.com/images/duesenberg_2.jpg)
 
 Il parrait que pour envoyer le post, il suffit de faire un *Jekyll serve*, on va tester cela
 
