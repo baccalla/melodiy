@@ -1,9 +1,9 @@
 # Site settings
 title: MeloDiy
-email: baccalla@users.noreply.github.com
+#email: baccalla@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
-  Diy blog about music stuff
-baseurl: "/melodiy/" # the subpath of your site, e.g. /blog/
+ Musique, Guitare, pédale nerd, et DIY 
+baseurl: "/melodiy" # the subpath of your site, e.g. /blog/
 url: "http://baccalla.github.io/" # the base hostname & protocol for your site
 twitter_username: ilbaccalla
 github_username: baccalla
